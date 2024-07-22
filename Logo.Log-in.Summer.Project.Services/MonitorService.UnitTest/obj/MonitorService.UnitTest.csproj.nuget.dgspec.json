@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitorService.UnitTest\\MonitorService.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitoringService\\MonitoringService.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitoringService\\MonitoringService.csproj",
+        "projectName": "MonitoringService",
+        "projectPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitoringService\\MonitoringService.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitorService.UnitTest\\MonitorService.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitorService.UnitTest\\MonitorService.UnitTest.csproj",
+        "projectName": "MonitorService.UnitTest",
+        "projectPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitorService.UnitTest\\MonitorService.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\umut.gur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitorService.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\umut.gur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\umut.gur\\source\\repos\\Application.Logo.Logging\\SLogManager": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitoringService\\MonitoringService.csproj": {
+                "projectPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.Services\\MonitoringService\\MonitoringService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.Web.Administration": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

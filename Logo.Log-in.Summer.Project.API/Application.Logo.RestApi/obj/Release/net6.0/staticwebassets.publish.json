@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "imU8g6nsw43WZRFZrBMWxB3fJ9UEN0qi5zdDCvrnoKM=",
+  "Source": "Application.Logo.RestApi",
+  "BasePath": "_content/Application.Logo.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Application.Logo.Business/1.0.0": {
+        "dependencies": {
+          "Application.Logo.Cammon": "1.0.0"
+        },
+        "runtime": {
+          "Application.Logo.Business.dll": {}
+        }
+      },
+      "Application.Logo.Cammon/1.0.0": {
+        "runtime": {
+          "Application.Logo.Cammon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application.Logo.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.Logo.Cammon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

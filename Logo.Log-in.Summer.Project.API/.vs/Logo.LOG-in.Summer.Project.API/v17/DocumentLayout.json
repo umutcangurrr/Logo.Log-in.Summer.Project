@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.restapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|solutionrelative:application.logo.restapi\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.restapi\\controllers\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|solutionrelative:application.logo.restapi\\controllers\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.business\\responsefolder\\sumbusinessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|solutionrelative:application.logo.business\\responsefolder\\sumbusinessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.business\\interface\\imonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|solutionrelative:application.logo.business\\interface\\imonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.business\\services\\monitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|solutionrelative:application.logo.business\\services\\monitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.business\\requestfolder\\sumbusinessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E47024-86B4-493C-8271-EDF23EB3F4C8}|Application.Logo.Business\\Application.Logo.Business.csproj|solutionrelative:application.logo.business\\requestfolder\\sumbusinessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|c:\\users\\umut.gur\\onedrive - logo\\documents\\github\\logo-log-in.summer.project1\\logo.log-in.summer.project.api\\application.logo.restapi\\controllers\\monitoringcontroller\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCC4318-36CC-4088-9B56-6437F9CE0726}|Application.Logo.RestApi\\Application.Logo.RestApi.csproj|solutionrelative:application.logo.restapi\\controllers\\monitoringcontroller\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Logger.cs",
+              "RelativeDocumentMoniker": "Application.Logo.RestApi\\Logger.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Logger.cs",
+              "RelativeToolTip": "Application.Logo.RestApi\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:03:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Controllers\\BaseController\\BaseController.cs",
+              "RelativeDocumentMoniker": "Application.Logo.RestApi\\Controllers\\BaseController\\BaseController.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Controllers\\BaseController\\BaseController.cs",
+              "RelativeToolTip": "Application.Logo.RestApi\\Controllers\\BaseController\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:03:13.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumBusinessResponse.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\ResponseFolder\\SumBusinessResponse.cs",
+              "RelativeDocumentMoniker": "Application.Logo.Business\\ResponseFolder\\SumBusinessResponse.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\ResponseFolder\\SumBusinessResponse.cs",
+              "RelativeToolTip": "Application.Logo.Business\\ResponseFolder\\SumBusinessResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:02:51.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMonitoringService.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\Interface\\IMonitoringService.cs",
+              "RelativeDocumentMoniker": "Application.Logo.Business\\Interface\\IMonitoringService.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\Interface\\IMonitoringService.cs",
+              "RelativeToolTip": "Application.Logo.Business\\Interface\\IMonitoringService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:02:17.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonitoringService.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\Services\\MonitoringService.cs",
+              "RelativeDocumentMoniker": "Application.Logo.Business\\Services\\MonitoringService.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\Services\\MonitoringService.cs",
+              "RelativeToolTip": "Application.Logo.Business\\Services\\MonitoringService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:02:10.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SumBusinessRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\RequestFolder\\SumBusinessRequest.cs",
+              "RelativeDocumentMoniker": "Application.Logo.Business\\RequestFolder\\SumBusinessRequest.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.Business\\RequestFolder\\SumBusinessRequest.cs",
+              "RelativeToolTip": "Application.Logo.Business\\RequestFolder\\SumBusinessRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:02:00.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Controllers\\MonitoringController\\MonitoringController.cs",
+              "RelativeDocumentMoniker": "Application.Logo.RestApi\\Controllers\\MonitoringController\\MonitoringController.cs",
+              "ToolTip": "C:\\Users\\umut.gur\\OneDrive - Logo\\Documents\\GitHub\\Logo-Log-in.Summer.Project1\\Logo.Log-in.Summer.Project.API\\Application.Logo.RestApi\\Controllers\\MonitoringController\\MonitoringController.cs",
+              "RelativeToolTip": "Application.Logo.RestApi\\Controllers\\MonitoringController\\MonitoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:00:33.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\bin\Release\net6.0\Application.Logo.Business.deps.json
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\bin\Release\net6.0\Application.Logo.Business.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\bin\Release\net6.0\Application.Logo.Business.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\bin\Release\net6.0\Application.Logo.Cammon.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\bin\Release\net6.0\Application.Logo.Cammon.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.csproj.AssemblyReference.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Applicat.F22B8F2B.Up2Date
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\refint\Application.Logo.Business.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\Application.Logo.Business.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Release\net6.0\ref\Application.Logo.Business.dll

@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.InstallLog
+   assemblypath = C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.exe
+Installing service MockService...
+Service MockService has been successfully installed.
+Creating EventLog source MockService in log Application...
+Committing assembly 'C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.InstallLog
+   assemblypath = C:\Users\umut.gur\source\repos\MonitorService\MockService\bin\Debug\MockService.exe

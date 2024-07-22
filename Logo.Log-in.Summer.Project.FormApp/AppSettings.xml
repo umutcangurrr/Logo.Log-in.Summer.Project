@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Settings>
+	<Setting Name="CheckApi" Value="true" />
+	<Setting Name="CheckMockService" Value="true" />
+	<Setting Name="MonitorInterval" Value="4000" />
+	<Setting Name="Information" Value="true" />
+	<Setting Name="Warning" Value="true" />
+	<Setting Name="Error" Value="true" />
+	<Setting Name="Fatal" Value="true" />
+</Settings>

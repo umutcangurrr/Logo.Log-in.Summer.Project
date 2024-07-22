@@ -1,0 +1,23 @@
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\Settings Application.exe
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\Settings Application.deps.json
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\Settings Application.runtimeconfig.json
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\Settings Application.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\Settings Application.pdb
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.csproj.AssemblyReference.cache
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings_Application.Form1.resources
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.csproj.GenerateResource.cache
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings.1D02884D.Up2Date
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\refint\Settings Application.dll
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.pdb
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\Settings Application.genruntimeconfig.cache
+C:\Users\umut.gur\source\repos\Logo.Log-in.Summer.Project.FormApp\Settings Application\obj\Release\net6.0-windows\ref\Settings Application.dll

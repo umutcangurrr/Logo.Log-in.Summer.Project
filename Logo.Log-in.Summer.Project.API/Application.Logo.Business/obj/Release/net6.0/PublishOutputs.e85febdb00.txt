@@ -1,0 +1,5 @@
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\publish\Application.Logo.Business.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\publish\Application.Logo.Business.deps.json
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\publish\Application.Logo.Business.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\publish\Application.Logo.Cammon.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\publish\Application.Logo.Cammon.pdb

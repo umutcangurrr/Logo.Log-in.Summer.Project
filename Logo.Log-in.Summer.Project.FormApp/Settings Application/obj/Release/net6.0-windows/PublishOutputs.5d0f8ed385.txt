@@ -1,0 +1,10 @@
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\Settings Application.exe
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\Settings Application.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\Settings Application.deps.json
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\Settings Application.runtimeconfig.json
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\Settings Application.pdb
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\System.Diagnostics.EventLog.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\System.ServiceProcess.ServiceController.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\umut.gur\OneDrive - Logo\Desktop\Logo Settings Application\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll

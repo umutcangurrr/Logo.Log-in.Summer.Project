@@ -1,0 +1,4 @@
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Debug\net5.0\Application.Logo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Debug\net5.0\Application.Logo.Business.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Debug\net5.0\Application.Logo.Business.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Business\obj\Debug\net5.0\Application.Logo.Business.csproj.CoreCompileInputs.cache

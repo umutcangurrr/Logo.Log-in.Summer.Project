@@ -1,0 +1,6 @@
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.RestApi\obj\Debug\net5.0\Application.Logo.RestApi.csproj.AssemblyReference.cache

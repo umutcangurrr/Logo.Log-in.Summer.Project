@@ -1,0 +1,11 @@
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\bin\Debug\net6.0\Application.Logo.Cammon.deps.json
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\bin\Debug\net6.0\Application.Logo.Cammon.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\bin\Debug\net6.0\Application.Logo.Cammon.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.AssemblyInfoInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.AssemblyInfo.cs
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.csproj.CoreCompileInputs.cache
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\refint\Application.Logo.Cammon.dll
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\Application.Logo.Cammon.pdb
+C:\Users\umut.gur\source\repos\Logo.LOG-in.Summer.Project.API\Application.Logo.Cammon\obj\Debug\net6.0\ref\Application.Logo.Cammon.dll
